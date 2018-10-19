@@ -1,0 +1,28 @@
+body {
+    background-color: #2980b9;
+}
+
+#gameboard {
+    background: url(assets/img/background.jpg) no-repeat;
+    background-position: bottom;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.cloud {
+    position: absolute;
+    z-index: 2;
+}
+
+.cloud.cloud_1 {
+
+}
+
+.cloud.cloud_2 {
+
+}
+
+.cloud.cloud_3 {
+
+}

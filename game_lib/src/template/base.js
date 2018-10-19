@@ -1,0 +1,8 @@
+var BaseTemplate = `
+
+
+`;
+
+export {
+    BaseTemplate
+}
